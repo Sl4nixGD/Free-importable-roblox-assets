@@ -1,2 +1,13 @@
-# RBLXAssets - free
- # Welcome to Roblox Assets  - This file contain free roblox assets made by Sl4nixYT  thats mean :  - Free models - Free Particle emitters - Free Scripts in a few updates uncoming  For making the best games in roblox history.. Yes, ITS FREE!  ## How to get them into your game  ### First, Install Roblox Studio  (Skip this section if its already installed) To install, go to the original roblox studio link and press the download button: [https://developer.roblox.com/en-us/resources/wordgames/download]  ### Create a game To create a game, just choose a section, and you can use Classic Baseplate(Hightly recommended)   ### Import files And now, follow the instructions below :  - Choose a file from this folders - Drag a file or an intire folder into the game - And you are done!  Thanks for using it! hoping for the best!!
+# This repository contain free roblox assets made by Roblox  
+## that include :  
+- Free models
+- Free Particle emitters
+- Free Scripts in a few updates uncoming  For making Your projects
+## How to import the files into your game  
+### First, Install Roblox Studio  (Skip this section if its already installed) 
+To install, go to the official roblox creator site and scroll down to the roblox studio section, and press the button labeled "Get Studio": [(https://create.roblox.com/docs)]  
+### Create a project and you can use The Classic Baseplate (recommended)   
+### Import files And now, follow the instructions below :  
+- Choose a file from this folders
+- Drag a file or an intire folder of assets into the workplace
+- And you are done!
